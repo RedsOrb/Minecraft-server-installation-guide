@@ -1,7 +1,7 @@
 # Minecraft-server-installation-guide
 Steps to install Minecraft server
 
-Minecraft Paper Server Setup (Linux)
+# Minecraft Paper Server Setup (Linux)
 
 This guide helps you set up a Paper Minecraft server on Linux step by step.
 
