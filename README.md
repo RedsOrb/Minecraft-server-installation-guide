@@ -48,7 +48,7 @@ cd ~/minecraft-paper
 
 ## 3. Run the following command (replace <URL> with the copied link):
 ```bash
-wget <URL> -O paper.jar
+wget https://papermc.io/api/v2/projects/paper/versions/your-paper-version/builds/latest/downloads/paper-your-paper-version-latest.jar -O paper.jar
 ```
 
 ## 4. Verify the file is downloaded:
