@@ -15,7 +15,7 @@ sudo apt update
 sudo apt install openjdk-17-jdk -y
 ```
 
-## Verify the installation:
+# Verify the installation:
 
 ```bash
 java -version
