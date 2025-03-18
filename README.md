@@ -17,13 +17,13 @@ sudo apt install openjdk-17-jdk -y
 
 ## Verify the installation:
 
-``bash
+```bash
 java -version
 ```
 ## You should see output similar to:
-```bash
+
 openjdk version "17.0.1" ...
-```
+
 
 
 # 📌 Step 2: Create a Server Directory
